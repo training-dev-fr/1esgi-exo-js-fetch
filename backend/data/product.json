@@ -1,0 +1,33 @@
+{
+    "id": 1,
+    "list": [
+    {
+        "id":1,
+        "name": "DVD - Le Seigneur des anneaux ",
+        "description" : "Dans le prologue, l'elfe Galadriel raconte l'histoire des anneaux magiques en Terre du Milieu. Les elfes en ont trois, les Nains sept et les Hommes, avides de pouvoir, en ont neuf. Mais Sauron a forgé l'Anneau unique pour diriger toute la Terre du Milieu. Ainsi, les elfes, les Nains et les Hommes s'allient pour combattre Sauron. Mais au cours de la bataille, le fils du roi des Hommes Isildur tranche les doigts de Sauron, dont l'un d'eux porte l'Anneau, faisant exploser le seigneur des ténèbres. Sauron est vaincu. Isildur, devenu roi, porte l'Anneau, mais celui-ci le trahit en s'échappant de son doigt pendant une embuscade, conduisant son hôte à la mort et disparaissant au fond du fleuve. 2500 ans plus tard, l'Anneau est repêché par hasard et appartiendra à la créature Gollum pendant 500 ans caché dans les Monts Brumeux, jusqu'à ce que l'Anneau tombe sur le hobbit Bilbon Sacquet qui le récupère.",
+        "price": 10.95,
+        "image": "http://localhost:3000/images/dvd.png"
+    },
+    {
+        "id":2,
+        "name": "OMEN Gaming Laptop 16-n0309nf",
+        "description": "Windows 11 FamilleAMD Ryzen™ 7 6800H16 Go RAM 512 Go Disque SSD40.9 cm (16.1 \"), FHD (1920 x 1080), 144 Hz, 7 MS response time, 300 nits, 100% sRGBNVIDIA® GeForce RTX™ 3060 (6 Go)",
+        "price": 1299.00,
+        "image": "http://localhost:3000/images/pc.png"
+    },
+    {
+        "id":3,
+        "name": "Écran Full HD HP M27f",
+        "description":"27\"FHD (1920 x 1080)Commandes à l’écran; AMD FreeSync™; Mode faible lumière bleue; AntirefletTemps de réponse: 5ms GtG (avec surcharge)HDMI; VGA",
+        "price": 169.00,
+        "image": "http://localhost:3000/images/ecran.png"
+    },
+    {
+        "id":4,
+        "name": "Tablette Tactile - LENOVO M10",
+        "description":"HD 2nd Gen - 10,1\" HD - RAM 2Go - Stockage 32Go - Android 10 - Iron Grey",
+        "price": 129.95,
+        "image": "http://localhost:3000/images/tablette.png"
+    }
+]
+}

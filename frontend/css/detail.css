@@ -1,0 +1,53 @@
+.product {
+    display: flex;
+    padding: 50px;
+    width:100%;
+}
+
+.product .right {
+    padding: 0px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 70%;
+    gap: 20px;
+}
+.product .left .image{
+    width: 100%;
+}
+.product .left img {
+    width: 100%;
+}
+
+.product .left {
+    width: 30%;
+}
+
+.product .name {
+    font-size: 110%;
+    font-weight: bold;
+}
+
+.product .price {
+    display: flex;
+}
+
+.product .basket {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.product .basket button {
+    padding: 8px;
+    background-color: #1565c0;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.product .basket select {
+    padding: 8px;
+    border-radius: 8px;
+}
