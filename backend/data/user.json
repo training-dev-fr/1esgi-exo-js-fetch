@@ -1,6 +1,34 @@
 {
-    "id": 0,
+    "id": 2,
     "list": [
-
+        {
+            "email": "test@yopmail.com",
+            "password": "$2b$10$Ipex0evTivlpVacxtYDdJ.vgpF9gH4q/ldcP6eFwI/OxML4n6.Zim",
+            "basket": [
+                {
+                    "quantity": 3,
+                    "id": 3,
+                    "name": "Écran Full HD HP M27f",
+                    "description": "27\"FHD (1920 x 1080)Commandes à l’écran; AMD FreeSync™; Mode faible lumière bleue; AntirefletTemps de réponse: 5ms GtG (avec surcharge)HDMI; VGA",
+                    "price": 169,
+                    "image": "http://localhost:3000/images/ecran.png"
+                },
+                {
+                    "quantity": 1,
+                    "id": 1,
+                    "name": "DVD - Le Seigneur des anneaux ",
+                    "description": "Dans le prologue, l'elfe Galadriel raconte l'histoire des anneaux magiques en Terre du Milieu. Les elfes en ont trois, les Nains sept et les Hommes, avides de pouvoir, en ont neuf. Mais Sauron a forgé l'Anneau unique pour diriger toute la Terre du Milieu. Ainsi, les elfes, les Nains et les Hommes s'allient pour combattre Sauron. Mais au cours de la bataille, le fils du roi des Hommes Isildur tranche les doigts de Sauron, dont l'un d'eux porte l'Anneau, faisant exploser le seigneur des ténèbres. Sauron est vaincu. Isildur, devenu roi, porte l'Anneau, mais celui-ci le trahit en s'échappant de son doigt pendant une embuscade, conduisant son hôte à la mort et disparaissant au fond du fleuve. 2500 ans plus tard, l'Anneau est repêché par hasard et appartiendra à la créature Gollum pendant 500 ans caché dans les Monts Brumeux, jusqu'à ce que l'Anneau tombe sur le hobbit Bilbon Sacquet qui le récupère.",
+                    "price": 10.95,
+                    "image": "http://localhost:3000/images/dvd.png"
+                }
+            ],
+            "id": 1
+        },
+        {
+            "email": "test@hotmail.com",
+            "password": "$2b$10$CBgdq2rOTXbnagaTdOCx7.lnhVqbOhce/wXT6YmyB0IvNRQ7oKmyG",
+            "basket": [],
+            "id": 2
+        }
     ]
 }
