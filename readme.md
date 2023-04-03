@@ -49,8 +49,10 @@ Lors d'un clic sur le bouton "ajouter au panier" il faudra ajouter ce produit da
 
 ```json
 {
-    "id": <id du produit>,
-    "quantity: <quantité du produit>
+    "product":{
+        "id": <id du produit>,
+        "quantity: <quantité du produit>
+    }
 }
 ```
 
